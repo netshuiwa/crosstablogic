@@ -1,0 +1,17 @@
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\bin\Debug\ExcelExportCrossTab.exe.config
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\bin\Debug\ExcelExportCrossTab.exe
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\bin\Debug\ExcelExportCrossTab.pdb
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\bin\Debug\NPOI.dll
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\bin\Debug\NPOI.OOXML.dll
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\obj\Debug\ExcelExportCrossTab.csprojAssemblyReference.cache
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\obj\Debug\ExcelExportCrossTab.Form1.resources
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\obj\Debug\ExcelExportCrossTab.Properties.Resources.resources
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\obj\Debug\ExcelExportCrossTab.csproj.GenerateResource.cache
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\obj\Debug\ExcelExportCrossTab.csproj.CoreCompileInputs.cache
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\obj\Debug\ExcelExportCrossTab.csproj.CopyComplete
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\obj\Debug\ExcelExportCrossTab.exe
+C:\Users\zhaixudong\source\repos\ExcelExportCrossTab\ExcelExportCrossTab\obj\Debug\ExcelExportCrossTab.pdb
